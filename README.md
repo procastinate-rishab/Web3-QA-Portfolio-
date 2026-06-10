@@ -1,0 +1,1 @@
+Here, I have uploaded my daily bug reports. These reports are not tied to any specific project; they contain individual bugs that I identified while testing and reviewing both the mobile app and web platform.
